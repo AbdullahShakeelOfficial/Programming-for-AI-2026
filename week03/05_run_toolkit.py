@@ -3,7 +3,7 @@ from student_toolkit import generate_summary, parse_marks, save_report
 
 def main():
     name = input("Enter student name: ").strip()
-    marks_text = input("Enter marks (comma-separated, e.g. 78, 65, 92): ")
+    marks_text = input("Enter marks (comma-separated, for example: 78, 65, 92): ")
 
     try:
         marks = parse_marks(marks_text)
