@@ -1,6 +1,3 @@
-# Part C: Custom module with student utility functions
-
-
 def calculate_grade(marks):
     """Return letter grade based on marks boundaries."""
     if marks >= 85:
