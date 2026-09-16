@@ -1,0 +1,8 @@
+========================================
+         STUDENT ANALYTICS REPORT       
+========================================
+Student Name : Hafiz Abdullah Shakeel
+Marks List   : [49.0]
+Class Average: 49.00
+Final Grade  : F
+========================================
