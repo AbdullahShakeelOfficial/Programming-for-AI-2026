@@ -1,0 +1,7 @@
+=== Experiment Summary Report ===
+
+ID: EXP-001 | Model: Logistic Regression | Accuracy: 0.84
+ID: EXP-002 | Model: Decision Tree | Accuracy: 0.88
+ID: EXP-003 | Model: KNN | Accuracy: 0.91
+
+Best Experiment: EXP-003 (KNN) with Accuracy 0.91
