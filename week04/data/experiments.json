@@ -1,0 +1,20 @@
+[
+    {
+        "experiment_id": "EXP-001",
+        "model_name": "Logistic Regression",
+        "dataset_name": "MNIST",
+        "accuracy": 0.84
+    },
+    {
+        "experiment_id": "EXP-002",
+        "model_name": "Decision Tree",
+        "dataset_name": "CIFAR-10",
+        "accuracy": 0.88
+    },
+    {
+        "experiment_id": "EXP-003",
+        "model_name": "KNN",
+        "dataset_name": "Iris",
+        "accuracy": 0.91
+    }
+]

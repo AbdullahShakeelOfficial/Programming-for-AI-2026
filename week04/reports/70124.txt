@@ -1,0 +1,4 @@
+SAP ID: 70124
+Student Name: Hamza
+Average Score: 68.67
+Letter Grade: C
