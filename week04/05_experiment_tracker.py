@@ -61,7 +61,7 @@ def save_experiments(
 ) -> None:
     path = Path(file_path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    records = [exp.to_dictionary() for exp in experiments]
+    records = [exp.to_dictionary() for exp in experiments] # list comprehension to convert each Experiment to a dictionary
     with path.open("w", encoding="utf-8") as file:
         json.dump(records, file, indent=4)
 
