@@ -1,0 +1,12 @@
+student_id,name,program,city,attendance,assignment,midterm,final,admission_date
+1001,Ali Khan,BSAI,Islamabad,85,78,72,81,2025-09-01
+1002,Sara Ahmed,BS AI,islamabad,,88,68,75,01/09/2025
+1003,Ahmed Raza,BSAI,Rawalpindi,92,80,missing,88,2025/09/01
+1003,Ahmed Raza,BSAI,Rawalpindi,92,80,missing,88,2025/09/01
+1004,Ayesha Noor,BSCS,Rwp,110,86,75,90,09-01-2025
+1005,Hamza Ali, BS-AI ,Islamabad,74,70,52,,2025-09-01
+1006,Zainab Malik,BSDS,RAWALPINDI,81,91,84,93,2025-09-02
+1007,Usman Tariq,AI,Islamabad,69,60,48,55,September 3 2025
+1008,Maryam Iqbal,BSAI,,88,89,87,94,2025-09-03
+1009,Bilal Ahmed,BSCS,Islamabad,-5,55,42,49,2025-09-04
+1010,Hira Khan,BS DS,Rawalpindi,79,N/A,72,80,2025-09-04

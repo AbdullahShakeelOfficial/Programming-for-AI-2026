@@ -1,0 +1,3 @@
+student_id,column,invalid_value,action,reason
+1004,attendance,110.0,Replaced with pd.NA,Out of valid 0-100 range
+1009,attendance,-5.0,Replaced with pd.NA,Out of valid 0-100 range

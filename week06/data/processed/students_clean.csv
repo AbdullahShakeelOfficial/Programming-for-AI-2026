@@ -1,0 +1,11 @@
+student_id,name,program,city,attendance,assignment,midterm,final,admission_date,attendance_imputed_flag,assignment_imputed_flag,midterm_imputed_flag,final_imputed_flag,weighted_score,attendance_status,grade,at_risk
+1001,Ali Khan,BSAI,Islamabad,85.0,78.0,72.0,81.0,2025-01-09,False,False,False,False,77.7,Excellent,B,False
+1002,Sara Ahmed,BSAI,Islamabad,85.0,88.0,68.0,75.0,,True,False,False,False,75.5,Excellent,B,False
+1003,Ahmed Raza,BSAI,Rawalpindi,92.0,80.0,72.0,88.0,,False,False,True,False,81.6,Excellent,B,False
+1004,Ayesha Noor,BSCS,Rawalpindi,81.0,86.0,75.0,90.0,,True,False,False,False,84.7,Satisfactory,B,False
+1005,Hamza Ali,BSAI,Islamabad,74.0,70.0,52.0,81.0,2025-01-09,False,False,False,True,70.1,Low,C,True
+1006,Zainab Malik,BSDS,Rawalpindi,81.0,91.0,84.0,93.0,2025-02-09,False,False,False,False,89.9,Satisfactory,A,False
+1007,Usman Tariq,BSAI,Islamabad,69.0,60.0,48.0,55.0,,False,False,False,False,53.9,Low,D,True
+1008,Maryam Iqbal,BSAI,Unknown,88.0,89.0,87.0,94.0,2025-03-09,False,False,False,False,90.9,Excellent,A,False
+1009,Bilal Ahmed,BSCS,Islamabad,81.0,55.0,42.0,49.0,2025-04-09,True,False,False,False,48.1,Satisfactory,F,True
+1010,Hira Khan,BSDS,Rawalpindi,79.0,80.0,72.0,80.0,2025-04-09,False,True,False,False,77.6,Satisfactory,B,False
