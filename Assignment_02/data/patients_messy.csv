@@ -1,0 +1,101 @@
+patient_id,age,heart_rate,department
+P1001,45,78,General Medicine
+P1002,,88,Gen Med
+P1003,67,missing,Cardiology
+P1003,67,missing,Cardiology
+P1004,130,86,Neurology
+P1005,34,70, General-Med
+P1006,72,60,General Med
+P1007,-5,55,Orthopedics
+P1008,54,89,Cardio
+P1009,35,65,General Medicine
+P1010,52,78,Cardiology
+P1011,69,91,Neurology
+P1012,,104,Orthopedics
+P1013,35,66,Gen Med
+P1014,52,79,General-Med
+P1015,69,missing,General Med
+P1016,18,105,Cardio
+P1017,35,67, cardiology 
+P1018,52,80, neurology 
+P1019,69,93,Orthopedics
+P1020,0,55,General Medicine
+P1021,N/A,68,General Medicine
+P1022,52,81,Cardiology
+P1023,69,94,Neurology
+P1024,18,56,Orthopedics
+P1025,35,,Gen Med
+P1026,52,82,General-Med
+P1027,69,95,General Med
+P1028,18,57,Cardio
+P1029,35,70, cardiology 
+P1030,52,83, neurology 
+P1031,69,96,Orthopedics
+P1032,18,58,General Medicine
+P1033,missing,71,General Medicine
+P1034,52,84,Cardiology
+P1035,69,N/A,Neurology
+P1036,18,59,Orthopedics
+P1037,35,72,Gen Med
+P1038,52,85,General-Med
+P1039,69,98,General Med
+P1040,120,60,Cardio
+P1041,35,73, cardiology 
+P1042,52,86, neurology 
+P1043,69,99,Orthopedics
+P1044,-,61,General Medicine
+P1045,35,-,General Medicine
+P1046,52,87,Cardiology
+P1047,69,100,Neurology
+P1048,18,62,Orthopedics
+P1049,35,75,Gen Med
+P1050,52,88,
+P1051,69,101,General Med
+P1052,18,63,Cardio
+P1053,35,76, cardiology 
+P1054,52,89, neurology 
+P1055,145,102,Orthopedics
+P1056,18,64,General Medicine
+P1057,35,250,General Medicine
+P1058,52,90,Cardiology
+P1059,69,103,Neurology
+P1060,18,30,Orthopedics
+P1061,35,78,Gen Med
+P1062,52,91,General-Med
+P1063,69,104,General Med
+P1064,18,66,Cardio
+P1065,35,79, cardiology 
+P1066,-8,92, neurology 
+P1067,69,12,Orthopedics
+P1068,18,67,General Medicine
+P1069,35,80,General Medicine
+P1070,52,93,Cardiology
+P1071,69,55,Neurology
+P1072,18,68,Orthopedics
+P1073,35,81,Gen Med
+P1074,52,94,General-Med
+P1075,69,56,General Med
+P1076,18,69,Cardio
+P1077,unknown,82, cardiology 
+P1078,52,95, neurology 
+P1079,69,unrecorded,Orthopedics
+P1080,18,220,General Medicine
+P1081,35,83,General Medicine
+P1082,52,96,Cardiology
+P1083,69,58,Neurology
+P1084,18,71,Orthopedics
+P1085,35,84,Gen Med
+P1086,52,97,General-Med
+P1087,69,59,General Med
+P1088,,72,Cardio
+P1089,35,85, cardiology 
+P1090,52,98, 
+P1091,69,,Orthopedics
+P1092,18,73,General Medicine
+P1093,35,86,General Medicine
+P1094,52,99,Cardiology
+P1095,69,61,Neurology
+P1096,18,74,Orthopedics
+P1097,35,87,Gen Med
+P1098,52,100,General-Med
+P1099,69,62,General Med
