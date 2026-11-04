@@ -2,7 +2,7 @@
 ```md
 # AI Use Disclosure
 
-1. **Tools Used**: Gemini (Personal AI Collaborator).
+1. **Tools Used**: Gemini, VSC.
 2. **Prompts & Summary**: 
    - Prompt 1: Help structure the `audit()` dictionary method to comply with exact JSON-compatible types.
    - Prompt 2: Design comprehensive assertions for `test_patient_dataset.py` covering exception handling and immutability.
