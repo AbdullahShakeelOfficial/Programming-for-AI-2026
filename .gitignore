@@ -1,1 +1,4 @@
 ﻿__pycache__/
+
+Assignment_03/data/*.zip
+Assignment_03/data/*.xlsx
