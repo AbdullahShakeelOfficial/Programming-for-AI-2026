@@ -1,0 +1,22 @@
+{
+  "dataset": "sklearn load_digits",
+  "image_shape": [
+    8,
+    8
+  ],
+  "input_features": 64,
+  "raw_intensity_range": [
+    0,
+    16
+  ],
+  "flatten_order": "row-major",
+  "kernel": "linear",
+  "C": 1.0,
+  "split_random_state": 42,
+  "test_size": 0.2,
+  "sklearn_version": "1.9.1",
+  "test_metrics": {
+    "accuracy": 0.975,
+    "macro_f1": 0.9748031409041428
+  }
+}
