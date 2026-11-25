@@ -1,0 +1,7 @@
+Stage,Remaining_Rows,Remaining_Gross_GBP,Excluded_Rows_This_Step,Excluded_GBP_This_Step
+0. Raw Dataset Loaded,541909,9747747.93,0,0.0
+1. Filter Country == 'United Kingdom',495478,8187806.36,46431,1559941.57
+2. Remove Missing CustomerID,361878,6767873.39,133600,1419932.97
+3. Remove Exact Duplicate Rows,356728,6747156.15,5150,20717.24
+4. Exclude Cancelled Invoices ('C*'),349227,7285024.64,7501,-537868.49
+5. Exclude Quantity <= 0 or UnitPrice <= 0,349203,7285024.64,24,0.0

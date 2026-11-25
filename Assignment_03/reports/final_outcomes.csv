@@ -1,0 +1,3 @@
+Policy,Selected_Count,Contact_Cost_GBP,Repeat_Buyers,Repeat_Purchase_Rate,Selected_Spend_GBP,Spend_Per_Contact_GBP,Cohort_Spend_Share,Clusters_Covered
+Final_Baseline_TopMonetary,200,400.0,146,0.73,336982.52,1684.9126,0.5123602987255625,
+Final_Cluster_Policy_k4,200,400.0,118,0.59,319367.13,1596.83565,0.4855772285456396,4.0
